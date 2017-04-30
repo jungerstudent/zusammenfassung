@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.26)  30 APR 2017 16:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.26)  30 APR 2017 16:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -382,7 +382,8 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
 \c@lips@count=\count140
 )
-(./Zusammenfassung.aux (./tex/vorwort.aux) (./tex/anfang.aux))
+(./Zusammenfassung.aux (./tex/vorwort.aux) (./tex/anfang.aux)
+(./tex/Nimm_die_heisseste_Frau_im_Club_mit.aux))
 \openout1 = `Zusammenfassung.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
@@ -427,29 +428,83 @@ File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 \openout2 = `tex/anfang.aux'.
 
 
-(./tex/anfang.tex) [3
+(./tex/anfang.tex [3
 
 
 
-] [4] (./Zusammenfassung.aux (./tex/vorwort.aux)
-(./tex/anfang.aux)) ) 
+]) [4]
+\openout2 = `tex/Nimm_die_heisseste_Frau_im_Club_mit.aux'.
+
+ (./tex/Nimm_die_heisseste_Frau_im_Club_mit.tex
+(/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-32.def
+File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
+) [5
+
+
+]
+Overfull \hbox (16.5885pt too wide) in paragraph at lines 25--32
+\OT1/cmr/m/n/12 eines Mannes ist, der diese at-trak-tiven Eigen-schaften demon-
+
+ []
+
+
+Overfull \hbox (3.49802pt too wide) in paragraph at lines 25--32
+\OT1/cmr/m/n/12 spreche ich dir. Ich habe das HUN-DERTE Male getestet...
+ []
+
+[6]
+Overfull \hbox (12.61076pt too wide) in paragraph at lines 56--57
+\OT1/cmr/m/n/12 um die h^^?ubschesten, unerre-ich-barsten Frauen anzus-prechen.
+ 
+ []
+
+
+Overfull \hbox (4.74278pt too wide) in paragraph at lines 58--63
+[]\OT1/cmr/m/n/12 Und ich habe einige echt fort-geschrit-tene, ge-niale Tech-
+ []
+
+
+Overfull \hbox (0.76967pt too wide) in paragraph at lines 68--69
+[]\OT1/cmr/m/n/12 Nun... um zum []spas-si-gen Teil\ ^^?uberge-hen zu k^^?onnen,
+
+ []
+
+[7] [8]
+Overfull \hbox (0.79144pt too wide) in paragraph at lines 102--103
+[]\OT1/cmr/m/n/12 Frauen lieben eine Her-aus-forderung, we-shalb sie unbe-
+ []
+
+
+Overfull \hbox (19.03847pt too wide) in paragraph at lines 106--107
+[]\OT1/cmr/m/n/12 Hier wird sie nat^^?urlich nein sagen (wir haben es schlie^^Y
+lich
+ []
+
+
+Overfull \hbox (16.78433pt too wide) in paragraph at lines 123--124
+[]\OT1/cmr/m/n/12 Indem du diesen in-ti-men Blick-kon-takt aufrechterh^^?altst.
+..
+ []
+
+[9]) [10] (./Zusammenfassung.aux (./tex/vorwort.aux) (./tex/anfang.aux)
+(./tex/Nimm_die_heisseste_Frau_im_Club_mit.aux)) ) 
 Here is how much of TeX's memory you used:
- 5051 strings out of 493089
- 67292 string characters out of 6134842
- 258481 words of memory out of 5000000
- 8535 multiletter control sequences out of 15000+600000
- 6408 words of font info for 23 fonts, out of 8000000 for 9000
+ 5321 strings out of 493089
+ 70718 string characters out of 6134842
+ 260349 words of memory out of 5000000
+ 8795 multiletter control sequences out of 15000+600000
+ 7014 words of font info for 25 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,10n,23p,984b,480s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2015/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmr17.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmsl12.pfb>
-Output written on Zusammenfassung.pdf (4 pages, 52984 bytes).
+ 29i,11n,26p,984b,480s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2015/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2015/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2015/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2015/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmsl12.pfb>
+Output written on Zusammenfassung.pdf (10 pages, 67611 bytes).
 PDF statistics:
- 33 PDF objects out of 1000 (max. 8388607)
- 22 compressed objects within 1 object stream
+ 53 PDF objects out of 1000 (max. 8388607)
+ 36 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
