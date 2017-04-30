@@ -1,5 +1,2 @@
-# zusammenfassung
-
-kleiner test
-
-ddd
+## Aufbereitung von Themen
+Ich möchte hier einige Themen aufbereiten. Das erste Thema wird sein wie man eine Frau anspricht und mit hoher Wahrscheinlichkeit keinen Korb riskiert. Falls dir meine Arbeit gefällt würde ich mich sehr über deine Unterstützung freuen. """PAYPALMELINKHINZUFÜGEN""" 
